@@ -1,0 +1,5 @@
+---
+vector:
+  hosts:
+    vector-test:
+      ansible_connection: docker
